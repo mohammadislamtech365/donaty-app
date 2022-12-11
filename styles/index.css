@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100;200;600&family=Secular+One&family=Unbounded:wght@200;800&display=swap');
 body {
+    margin:0px;
+}
+/* 
+---------
+Header section
+--------- 
+*/
+
+.donaty-app-header{
+    text-align: center;
+    padding:8vw 20vw;
+    background-image: url('../images/donation/donation13.jpg');
+    background-repeat: no-repeat;
+    height:500px;
+    background-size: cover;
     
 }
+

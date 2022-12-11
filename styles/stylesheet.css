@@ -1,0 +1,17 @@
+.btn-orangered {
+    background-color: orangered;
+    padding:15px;
+    color:white;
+    border:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.font-txt {
+    font-size:20px;
+}
+.font-big {
+    font-size:60px;
+}
+.txt-white {
+    color:white;
+}

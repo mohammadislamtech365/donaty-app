@@ -18,3 +18,15 @@
 .txt-white {
     color:white;
 }
+.font-medium {
+    font-size:50px;
+}
+.font-green {
+    color:greenyellow;
+}
+.font-blue {
+    color:rgb(89, 47, 255);
+}
+.font-purple {
+    color:purple;
+}

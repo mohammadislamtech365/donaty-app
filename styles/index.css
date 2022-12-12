@@ -34,9 +34,12 @@ Donate Today section
     padding:40px;
     box-sizing: border-box;
     display:inline-block;
-    background-color: aquamarine;
 }
 
+.donate-box:nth-child(3) {
+    border:2px solid orangered;
+    background-color: rgb(218, 162, 141);
+}
 #donate-input {
     margin:20px;
     width:400px;

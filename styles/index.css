@@ -18,3 +18,29 @@ Header section
     
 }
 
+/* 
+---------
+Donate Today section
+--------- 
+*/
+.donate-today {
+    text-align: center;
+    padding:5vw 20vw;
+}
+
+.donate-box {
+    width:100px;
+    margin:2px;
+    padding:40px;
+    box-sizing: border-box;
+    display:inline-block;
+    background-color: aquamarine;
+}
+
+#donate-input {
+    margin:20px;
+    width:400px;
+    border:none;
+    border-bottom:1px solid grey;
+    text-align: center;
+}

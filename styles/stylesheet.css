@@ -4,16 +4,16 @@
     color:white;
     border:none;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 2vw;
 }
 .font-txt {
-    font-size:20px;
+    font-size:1.8vw;
 }
 .font-big {
-    font-size:60px;
+    font-size:5vw;
 }
 .font-medium {
-    font-size:50px;
+    font-size:4vw;
 }
 .txt-white {
     color:white;
